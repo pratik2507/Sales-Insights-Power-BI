@@ -1,3 +1,9 @@
 # Sales-Insights-Power-BI
 
-This is the my first PowerBI project.In this , collected real sales data from a company database.After that created a dashboard for generating sales insights of a company using Microsoft Power Bi.Imported millions of data from SQL database to Power Bi and cleaned them using power query language. Worked with data modelling with star schema and used various visualisation tools for presenting sales insights.
+Problem Statement : Data analysis project to build power BI dashboard that can give real time sales insights.
+
+Undertook analysis of Database containing sales transactions, customer details, products and market information.
+
+Used Power BI for data cleaning and wrangling (ETL-Extract, transform , load). This was followed by currency normalization, handling invalid values etc.
+
+Dashboard was created to provide sales insights such as Revenue Trend, top customers/markets for the required period.
